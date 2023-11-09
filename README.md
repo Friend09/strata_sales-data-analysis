@@ -35,7 +35,7 @@ The `datasets/` directory contains fifty CSV files (one per week) of timestamped
 
 Please work on the questions in the displayed order. Make sure that the solution reflects your entire thought process - it is more important how the code is structured rather than the final answers. You are expected to spend no more than 1-2 hours solving this project.
 
-## Project setup & work approach
+## Project setup
 
 - first create a repo on github
   - include a README.md file
@@ -50,3 +50,7 @@ Please work on the questions in the displayed order. Make sure that the solution
 - activate the venv `source venv/bin/activate`
 - open the notebook to start the work (prefer PyCharm for this project)
   - read all the instructions first from the URL
+
+## Project approach
+
+- load the data
